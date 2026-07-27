@@ -1,12 +1,12 @@
-# 📊 Business Analytics – Y.Afisha
+#  Business Analytics – Y.Afisha
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes user behavior, sales performance, and marketing efficiency for **Y.Afisha**, an online entertainment platform. The objective is to understand how users interact with the product, evaluate customer purchasing behavior, measure customer lifetime value, and identify the most effective marketing channels.
 
 ---
 
-## 🎯 Business Questions
+##  Business Questions
 
 - How do users interact with the platform?
 - When do users make their first purchase?
@@ -16,7 +16,7 @@ This project analyzes user behavior, sales performance, and marketing efficiency
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The project uses three datasets:
 
@@ -26,7 +26,7 @@ The project uses three datasets:
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 - Python
 - Pandas
@@ -37,7 +37,7 @@ The project uses three datasets:
 
 ---
 
-## 📊 Business Metrics
+##  Business Metrics
 
 - Customer Lifetime Value (LTV)
 - Customer Acquisition Cost (CAC)
@@ -48,7 +48,7 @@ The project uses three datasets:
 
 ---
 
-## 💡 Conclusion
+##  Conclusion
 
 Throughout the project, Y.Afisha’s user behavior, purchasing patterns, and marketing channel efficiency were analyzed for the 2017–2018 period. Cost per source, CAC, and ROI were evaluated for the acquisition channels.
 
@@ -56,7 +56,7 @@ The analysis showed that marketing investments could be optimized. Although Sour
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 Business-Analytics-Y.Afisha/
